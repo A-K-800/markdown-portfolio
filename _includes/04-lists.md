@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- UNORDERED LIST 1
+- UNORDERED LIST 2
+- UNORDERED LIST 3
+
+1. ORDERED LIST 1
+2. ORDERED LIST 2
+3. ORDERED LIST 3
+   SUB LIST 3A
+   SUB LIST 3B
